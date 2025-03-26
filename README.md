@@ -3,20 +3,22 @@
 # SE-DAY5-Technical-Writing
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
 Understanding your audience's technical expertise is crucial for effective communication. 
+
 For tech experts, you can delve into technical details, use industry jargon, and assume prior knowledge. 
+
 For regular folks, simplify terms, provide context, and avoid overwhelming them with technical jargon.
 
 ## 2. What are some strategies to tailor your content to different audience types?
-Use relatable examples; Connect technical concepts to everyday experiences.
-Avoid jargon; Replace technical terms with simpler language.
-Provide context; Explain unfamiliar concepts or acronyms.
-Use visuals; Diagrams, charts, and screenshots can clarify complex ideas.
-Offer different levels of detail; Provide both high-level overviews and in-depth explanations.
+-Use relatable examples; Connect technical concepts to everyday experiences.
+-Avoid jargon; Replace technical terms with simpler language.
+-Provide context; Explain unfamiliar concepts or acronyms.
+-Use visuals; Diagrams, charts, and screenshots can clarify complex ideas.
+-Offer different levels of detail; Provide both high-level overviews and in-depth explanations.
 
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
-	Ask questions; Directly inquire about the audience's familiarity with the topic.
-	Observe feedback; Pay attention to questions, comments, and confusion.
-	Start simple; Begin with a basic overview and gradually introduce more complex concepts.
+Ask questions; Directly inquire about the audience's familiarity with the topic.
+Observe feedback; Pay attention to questions, comments, and confusion.
+Start simple; Begin with a basic overview and gradually introduce more complex concepts.
 
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
